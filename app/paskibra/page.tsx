@@ -27,7 +27,7 @@ const milestones = [
   },
   {
     number: "02",
-    title: "TOP BEST 6",
+    title: "BEST 6",
     event: "LPKBB JURAGAN 3 (FINAL)",
     date: "10 Januari 2026",
     tingkat: "SMA/SMK Se-Derajat Malang Raya",
