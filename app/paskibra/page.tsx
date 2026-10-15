@@ -14,7 +14,7 @@ const trainingPhotos = [
   {
     image: "/paskibra/JUR.jpeg",
     alt: "Abyakta Dream Team celebrating its achievement",
-    label: "TOP 6 BEST & TOP 3 BEST PBB IN MALANG",
+    label: "BEST 6 & BEST PBB 3 IN MALANG",
   },
 ];
 const milestones = [

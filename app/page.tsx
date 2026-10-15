@@ -14,7 +14,7 @@ const projects = [
   {
     number: "02",
     category: "PERSONAL EXPERIENCE",
-    title: "Abyakta Dream Team",
+    title: "PASKADEMA SENANJAYA",
     description:
       "A journey shaped by discipline, teamwork, competition, and meaningful memories.",
     tags: ["Paskibra", "Teamwork", "Growth"],
