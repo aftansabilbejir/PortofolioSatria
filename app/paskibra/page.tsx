@@ -58,7 +58,7 @@ const milestones = [
     title: "MADYA 3",
     event: "LPKBB PRASASSTI LAMPAHREKSO",
     date: "19 Oktober 2025",
-    tingkat: "Purna Se-Malang Raya",
+    tingkat: "SMA/SMK Se-Derajat Malang Raya",
   },
   {
     number: "07",
